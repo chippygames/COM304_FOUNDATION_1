@@ -3,11 +3,11 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2025 | 
-| Student Name | |
-| Student Number | |
-| Student Email | |
-| Github Account Username | |
-| Github Submission Repository URL | |
+| Student Name |isaac W |
+| Student Number |Q103104672 |
+| Student Email | 0wirei72@solent.ac.uk|
+| Github Account Username |chippygames |
+| Github Submission Repository URL |https://github.com/chippygames/COM304_FOUNDATION_1/edit/main/myPracticeCourseWork/personal_learning_record/personal_learning_record.md#L6C16 |
 
 ## Introduction
 
