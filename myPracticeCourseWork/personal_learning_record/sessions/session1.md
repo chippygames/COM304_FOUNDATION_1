@@ -19,3 +19,5 @@
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+computer
