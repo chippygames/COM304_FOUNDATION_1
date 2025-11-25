@@ -5,6 +5,11 @@
 ## Topics covered
 *What topics were covered in this session*
 
+serveredge 
+server
+NAS
+Blade server
+pictures--
 
 
 ## Personal Notes and research following this session
