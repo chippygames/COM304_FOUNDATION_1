@@ -4,6 +4,13 @@
 
 ## Topics covered
 *What topics were covered in this session*
+-alan turing
+the enigma
+the bombe
+serveredge 
+server
+
+
 
 
 
