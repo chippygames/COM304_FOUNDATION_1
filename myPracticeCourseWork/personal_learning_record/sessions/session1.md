@@ -4,7 +4,10 @@
 
 ## Topics covered
 *What topics were covered in this session*
+
+
 -alan turing
+
 the enigma
 the bombe
 serveredge 
@@ -16,6 +19,9 @@ two or three refrences
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+I learned about a  list of things such as alan Turing, the enigma ,the bombe
+alan turing was an english with many professions mostly in mathematics and computer science.
+He invented 
 
 
 
