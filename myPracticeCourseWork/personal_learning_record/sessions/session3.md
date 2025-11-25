@@ -4,6 +4,11 @@
 
 ## Topics covered
 *What topics were covered in this session*
+logic gates
+raspberry  pi
+Node Red
+traffic light simulation 
+
 
 
 
