@@ -11,6 +11,9 @@ NAS
 Blade server
 pictures--
 
+Booleans
+Binaries
+
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
