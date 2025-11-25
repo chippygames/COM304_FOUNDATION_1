@@ -8,7 +8,7 @@ logic gates
 raspberry  pi
 Node Red
 traffic light simulation 
-
+bread board
 
 
 
