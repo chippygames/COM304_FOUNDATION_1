@@ -41,16 +41,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> implemnting in a workspace would save companies money
+        <li>idea</li> implementing hotdesks would also save companies spaces in the office
+        <li>idea</li> easy to use- 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> some people might not like the idea of not being able to personalise their workspace 
+        <li>idea</li> There is a lack of privacy when using hotdesks some workers may not like that 
+        <li>idea</li> you havw to accomadate to people with some disabilities.
       </ol> 
     </td>
   </tr>
