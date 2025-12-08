@@ -4,14 +4,10 @@
 
 ## Topics covered
 *What topics were covered in this session*
-logic gates
-raspberry  pi
-Node Red
-traffic light simulation 
-bread board , gert board
-pictures.
+raspbery pi
+gertboards
+node red
 
-w
 
 ## Personal Notes and research following this session
 Trying out the raspbery Pi and experementing with it   
