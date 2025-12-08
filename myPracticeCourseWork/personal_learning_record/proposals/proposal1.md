@@ -22,15 +22,15 @@
     <td>
       <ol>
         <li>idea</li> cost effective
-        <li>idea</li> performance issues
-        <li>idea</li>
+        <li>idea</li> Environmentally Friendly 
+        <li>idea</li>Encourages Collaboration
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> less personalisation 
+        <li>idea</li> limited storage
+        <li>idea</li>hygiene issues
       </ol> 
     </td>
   </tr>
