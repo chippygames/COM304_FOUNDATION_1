@@ -21,8 +21,8 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> cost effective
+        <li>idea</li> performance issues
         <li>idea</li>
       </ol> 
     </td>
