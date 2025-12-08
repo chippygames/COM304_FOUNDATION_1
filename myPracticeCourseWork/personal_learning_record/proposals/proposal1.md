@@ -30,7 +30,7 @@
       <ol>
         <li>idea</li> less personalisation 
         <li>idea</li> limited storage
-        <li>idea</li>hygiene issues
+        <li>idea</li> hygiene issues
       </ol> 
     </td>
   </tr>
@@ -43,7 +43,7 @@
       <ol>
         <li>idea</li> implemnting in a workspace would save companies money
         <li>idea</li> implementing hotdesks would also save companies spaces in the office
-        <li>idea</li> easy to use- 
+        <li>idea</li> easy to use and learn 
       </ol> 
     </td>
     <td>
