@@ -4,13 +4,13 @@
 
 ## Topics covered
 *What topics were covered in this session*
-
-
-
+- CPUlator
+- Computer languages(compiled  and interpreted)
+-  
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
-
-
+using CPUlator to simulate 
+Using binary code tyo 
+co
 
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
