@@ -4,11 +4,15 @@
 
 ## Topics covered
 *What topics were covered in this session*
+cpulator 
 
 
 
 ## Personal Notes and research following this session
-*Which class sessions and personal research refers to technology in this proposal. Link to examples.*
+Using cpulator to display numbers in a seven segment display using codes
+using c code to change what led lights up in the segemnts
+makking a map of all the hex symbol and figuring out what controls what on the segment and 
+what displays what
 
 
 
