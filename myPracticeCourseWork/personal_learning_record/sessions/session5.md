@@ -20,3 +20,5 @@ A open source program allows for modifications by any user whereas closed source
 
 ## Summary of learning
 *What did you learn through these exercises*
+i learned about some of the open sources programs available through and how 
+you can obtain them an example such as linux which is an open source you can find and download on linux and modify to a degree
