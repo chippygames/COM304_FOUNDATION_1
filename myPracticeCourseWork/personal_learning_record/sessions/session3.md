@@ -4,9 +4,9 @@
 
 ## Topics covered
 *What topics were covered in this session*
-raspbery pi
-gertboards
-node red
+-raspbery pi
+-gertboards
+-node red
 
 
 ## Personal Notes and research following this session
@@ -18,7 +18,7 @@ we configured the pi board(setting the flow and wires up) to automate switching 
 on the gertboard.
 ## Exercises and results
 *What exercises did you complete. What results. Screen shots and notes*
-
+---
 
 
 ## Summary of learning
