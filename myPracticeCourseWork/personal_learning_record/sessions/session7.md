@@ -5,7 +5,7 @@
 ## Topics covered
 OS structures
 origin of linux os
-
+apache 2 web server
 
 
 ## Personal Notes and research following this session
@@ -14,6 +14,8 @@ at&T Developed the c programming language which was used to code a new operating
 The copy left GPL  license forced people who copied or extended the source code to publish their work
 under the same lincense
 Linux torvald had project in university(university of helenski), his goal was to make a unix kernel that would work on low cost intel processers
+tried install apache 2 web server on the raspbery pi but had some issues with it not working properly.
+
 
 
 
