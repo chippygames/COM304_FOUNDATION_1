@@ -21,16 +21,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Benefits from global developer communities that rapidly iterate and improve software.
+        <li>idea</li> Software can be modified, extended, or integrated without vendor restrictions.
+        <li>idea</li> Access to a wide ecosystem of add-ons, plugins, and integrations.
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>Community support can be inconsistent;
+        <li>idea</li>Some OSS solutions require in-house expertise to deploy and maintain.
+        <li>idea</li>Risk of adopting software that becomes unsupported or abandoned
       </ol> 
     </td>
   </tr>
@@ -41,16 +41,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>protects against abrupt cost increases or discontinued products
+        <li>idea</li> Ability to build unique features tailored to organizational needs.
+        <li>idea</li> Encourages  innovation and collaboration with the open-source community
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> unpatched vulnerabilities can pose risks
+        <li>idea</li> requires ongoing monitoring to ensure updates are applied promptly
+        <li>idea</li> Some proprietary solutions dominate markets creating compatibility pressure
       </ol> 
     </td>
   </tr>
@@ -67,16 +67,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>National cybersecurity agencies often advocate reducing dependency on closed eco-systems which supports OSS preference.
+        <li>idea</li> Open Source Could Expose Software Vulnerabilities
+        <li>idea</li> 
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>Potential savings can free budget for training and innovation 
+        <li>idea</li> Increased reliance on OSS may require investments in certain tech experts.
+        <li>idea</li> 
       </ol> 
     </td>
   </tr>
@@ -87,15 +87,15 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Staff may require upskilling or training, especially when transitioning from familiar proprietary tools
+        <li>idea</li> Resistance may come from staff who prefer proprietary tools due to habit
+        <li>idea</li> A clear communication plan is essential to highlight benefits and address concerns
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li> Enterprise-level support may require additional contracts with third parties
+        <li>idea</li> Organizations gain the ability to modify and extend software without vendor restrictions.
         <li>idea</li>
       </ol> 
     </td>
@@ -105,8 +105,10 @@
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
+* question 1 does the OSS meet the orginisations requirments?
+* question 2 who would staff react towards this change?
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+Using open source software can bring  substanital benefits such as reduces cost and some improvement to security.The main problems  include ensuring adequate tech support managing change and selecting well-supported OSS projects to maintain long-term reliability.
+
