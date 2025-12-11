@@ -49,7 +49,7 @@
       <ol>
         <li>idea</li Data privacy risks if security or vpns are not up to date
         <li>idea</li> some  of the staff may not like the chages to remote work 
-        <li>idea</li> Technology and connectivity limitations may slow down work for certain individuals with poor broadbrand and hardware.
+        <li>idea</li>Technology and connectivity limitations may slow down work for certain individuals with poor broadbrand and hardware.
       </ol> 
     </td>
   </tr>
