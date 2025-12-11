@@ -3,13 +3,17 @@
 # Session 9
 
 ## Topics covered
-*What topics were covered in this session*
+introduction to networking
+Different Layers 
 
 
 
 ## Personal Notes and research following this session
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
-
+The diffrent application layers such as Http, SSH FTP and SMTP
+the transport layer(TCP, UDP, DCCP  which is a protocols of this layer provide end to end communication services for applications.It is also often reffered too as Layer 4.
+-The network layer which is used to communicate across a network.
+-The Link layer is a local point to point communication where the communicating device sends signals directly between each other over a physical medium.
 
 
 ## Exercises and results
@@ -19,3 +23,8 @@
 
 ## Summary of learning
 *What did you learn through these exercises*
+
+I learned some of the basics of networking and  how devices connect and share information.
+-Learnerd how data travels across a network 
+-the difference between LANs and WANs
+-common protocols like TCP/IP
