@@ -87,16 +87,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>Depending on the counters some people using museums/libaries could be uncomfortable with them
+        <li>idea</li> staff  and hours can be optimized based on information the pi's gather.
         <li>idea</li>
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>Raspberry Pi's are flexible and  low-power platforms for IoT sensing.
+        <li>idea</li> They have a variety of  sensing technologies avaiable.
+        <li>idea</li> They have to be regulary updated and monitored for security risks.
       </ol> 
     </td>
   </tr>
@@ -105,8 +105,9 @@
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
+* question 1 Is the network reliable enough to support the pi's.
+* question 2 Are the Sensors giving accurate information when there is  a multitiude of people.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+implementing Pi's into libaries/museums is a cost effective and technologically practical move but has some issues that some may dislike such as it's security risks.However if implemented it can significantly improve certain decisions by giving more accurate data.
