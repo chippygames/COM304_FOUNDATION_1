@@ -50,7 +50,7 @@
       <ol>
         <li>idea</li> some people might not like the idea of not being able to personalise their workspace 
         <li>idea</li> There is a lack of privacy when using hotdesks some workers may not like that 
-        <li>idea</li> you havw to accomadate to people with some disabilities.
+        <li>idea</li> you have to accomadate to people with some disabilities.
       </ol> 
     </td>
   </tr>
@@ -67,16 +67,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>Hot desking may have an increase risk of data breaches if devices are left on by accident.
+        <li>idea</li>hot desks still have to meet health and saftey regulations
+        <li>idea</li>companies may have to enfore stricter policies to make hot desks more secure.
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>reduces hardware purchases as fewer computers would be required if hotdesking is implemented.
+        <li>idea</li> More office space aswell which can be used for other projects due to less space being needed for computers.
+        <li>idea</li>maintenece costs would also be reduces aswelldue to fewer computers.
       </ol> 
     </td>
   </tr>
@@ -87,16 +87,16 @@
   <tr>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>some employees may enjoy the flexibility in using a hotdesk
+        <li>idea</li> Other employees may not enjoy not using their own perosnalised computer.
+        <li>idea</li>hot desking can promote team works.
       </ol> 
     </td>
     <td>
       <ol>
-        <li>idea</li>
-        <li>idea</li>
-        <li>idea</li>
+        <li>idea</li>stronger cybersecurity measure may be needed to make hotdesking more secure.
+        <li>idea</li> Depends on mostly the cloud.
+        <li>idea</li>IT support may increase if hot desk users continously encounter issues.
       </ol> 
     </td>
   </tr>
@@ -105,9 +105,10 @@
 ## Questions to ask about the proposal
 *Without knowing how exactly the council will implement this proposal, what questions should be raised?*
 
-* question 1
-* question 2
+* question 1 Would the employees enjoy the change?
+* question 2 What would happen to work flow if the network/Cloud is down.
 
 ## Evaluation of the proposal
 *Povide a breif evaluation based on what you know*
+in my opinion this proposal has its many ups and downs and i personally believe that hotdesking would be a better financial option over normal computers due to it being more cost effective. However it also has it's main issue which is that if the Cloud/Network goes down then employees can no longer acesss their work.
 
