@@ -4,7 +4,8 @@
 
 ## Topics covered
 introduction to networking
-Different Layers 
+Different protocools
+
 
 
 
@@ -26,5 +27,5 @@ the transport layer(TCP, UDP, DCCP  which is a protocols of this layer provide e
 
 I learned some of the basics of networking and  how devices connect and share information.
 -Learnerd how data travels across a network 
--the difference between LANs and WANs
+-the difference between the network types (Lan, Wan, Man )
 -common protocols like TCP/IP
