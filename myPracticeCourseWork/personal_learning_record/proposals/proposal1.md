@@ -4,6 +4,11 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+It would mean Instead of each employee having their own computer permanently fixed at a desk, computers would be shared among employees. 
+typically implementing hotdesking to replace office pcs would have to be planned thorughly to avoid disrupting any workflow
+you would have to assess which roles in the office requires  a pc
+-how many employees are in each day etc.
+you would also need to create a booking system to avoid chaos at the work place.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
