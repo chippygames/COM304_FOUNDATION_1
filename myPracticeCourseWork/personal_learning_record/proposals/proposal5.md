@@ -4,6 +4,10 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+this proposal would allow orginisations to modify OSS  and share the code when needed, it's also cost efficient 
+and very flexible due to being able to modify the code.
+-implementing it would be tricky and would have to be planned due to its many risk factors.
+you could test out the software before fully implemnting it to make sure it works for regular use daily.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
