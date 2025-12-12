@@ -4,6 +4,10 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+it would mean libaries/museums can automate counting visitors more effectively by reducing total cost.
+it could be implemented in multiple ways due to how flexible pi's technology is
+-thermal sensors(detecting heat)
+- infared sensors which are is most simple way to implement.
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
