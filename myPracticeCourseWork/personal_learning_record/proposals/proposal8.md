@@ -1,10 +1,16 @@
-[Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
+ [Personal Learning Record](../../personal_learning_record/personal_learning_record.md) | [IT Proposals](../proposals/README.md) 
 
 # Council Proposal 8
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+this proposal would mean the simpler reppetiive tasks could be fully automated by ai
+(data entry, reports, scheduling etc.
+it could be implemented into a small department to measure its effictivness impact on staff and workloads.
+it could be implemented by letting the ai focus on smaller less intesive tasks customer support etc
+so staff can handle higher priority tasks.
 
+-
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
 
