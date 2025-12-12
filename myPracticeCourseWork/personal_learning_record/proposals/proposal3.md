@@ -4,6 +4,12 @@
 
 ## Explanation of this proposal
 *What do you think this proposal might mean? How might it be implemented?*
+this proposal would mean councellors could do their jobs at home and people with relocataion issues or 
+certain responsibilities would have less issues.
+it could be implemented by 
+-making sure employees are trained to reduce the risks of data breaches.
+-making sure all devices councellors use have a secure encrypted vpn.
+
 
 ## Technologies and research relevant to this proposal
 *Which class sessions and personal research refers to technology in this proposal. Link to examples.*
